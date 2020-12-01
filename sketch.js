@@ -1,4 +1,6 @@
-const Engine = Matter.Engine; const World = Matter.World; const Bodies = Matter.Bodies;
+const Engine = Matter.Engine;
+const World = Matter.World; 
+const Bodies = Matter.Bodies;
 var a;
 var ground,stand,b1,b2,b3,b4,b5,b6,b7,b8,b9,b10;
 var b11,b12,b13,b14,b15,b16;
